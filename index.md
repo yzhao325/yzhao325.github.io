@@ -20,7 +20,7 @@ The <b>LoCo Lab Radio Astronomy Bootcamp</b> is a summer week-long bootcamp run 
 
 The <b>Completely Hackable Amateur Radio Telescope (CHART)</b> is an outreach program developed in collaboration between Arizona State University and Winona State University that aims to teach high schoolers about DIY radio astronomy. I have mentored undergraduate students on the development and testing of this project. Read more <a href="https://astrochart.github.io/main_page">here</a>.
 
-I've also TA'd for summer programs such as the Summer Science Program and for undergraduate courses at ASU, including SES 410: Senior Exploration Project.
+I've also TA'd for summer programs such as the <a href="https://summerscience.org/">Summer Science Program</a> and for undergraduate courses at ASU, including SES 410: Senior Exploration Project.
 
 ## Links
 
