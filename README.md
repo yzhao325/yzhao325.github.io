@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# Yifan Zhao's Personal Website
+This site was created with the jekyll-theme-console theme.
