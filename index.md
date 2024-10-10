@@ -4,11 +4,14 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Yifan Zhao
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+I'm Yifan Zhao, an instrumentalist specializing in 21-cm cosmology. I'm currently a PhD candidate at Arizona State University.
 
-# Welcome
+# Links
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+CV
+
+OrcID
+
+Contact: amyzhao[at]asu.edu
