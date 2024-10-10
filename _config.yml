@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: ''
+footer: 'contact me at amyzhao[at]asu.edu'
 
 # Build settings
 markdown: kramdown
