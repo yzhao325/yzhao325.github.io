@@ -1,6 +1,6 @@
 title: 'yzhao325.github.io'
 description: "."
-baseurl: "/"
+baseurl: "/home"
 url: "https://yzhao325.github.io"
 
 header_pages:
@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'contact me at amyzhao[at]asu.edu'
+footer: 'contact: amyzhao[at]asu.edu'
 
 # Build settings
 markdown: kramdown
