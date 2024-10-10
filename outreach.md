@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /about
-permalink: /about/
+title: /outreach
+permalink: /outreach
 ---
 
 # jekyll-theme-console
