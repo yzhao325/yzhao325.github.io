@@ -1,12 +1,12 @@
 title: 'yzhao325.github.io'
-description: "."
-baseurl: "/"
+description: "yifan zhao"
+baseurl: "yzhao325.github.io"
 url: "https://yzhao325.github.io"
 
 header_pages:
   - index.md
-  - peter.md
-  - about.md
+  - research.md
+  - outreach.md
   - contact.md
 
 style: dark
