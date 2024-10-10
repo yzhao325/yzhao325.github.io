@@ -14,10 +14,16 @@ Zhao, Y., Jacobs, D. C., Bowman, J., Samson, T. and Lalonde, M.-O. R. Pathfindin
 
 “Space-like testing of 21-cm cosmology instruments on balloons and beyond.” National Radio Science Meeting (URSI), University of Colorado Boulder.
 
-## Teaching and Outreach
+## Teaching and outreach
 
 The <b>LoCo Lab Radio Astronomy Bootcamp</b> is a summer week-long bootcamp run by the <a href="https://loco.lab.asu.edu/">Low-Frequency Cosmology (LoCo) Lab</a> at Arizona State University for undergraduate students interested in learning more about radio astronomy or in working for the LoCo Lab. I have helped to develop the teaching materials and led sessions at the 2023 version of this bootcamp.
 
 The <b>Completely Hackable Amateur Radio Telescope (CHART)</b> is an outreach program developed in collaboration between Arizona State University and Winona State University that aims to teach high schoolers about DIY radio astronomy. I have mentored undergraduate students on the development and testing of this project. Read more <a href="https://astrochart.github.io/main_page">here</a>.
 
 I've also TA'd for summer programs such as the Summer Science Program and for undergraduate courses at ASU, including SES 410: Senior Exploration Project.
+
+## Links
+
+<a href="graphics/YifanZhaoCV.pdf">CV</a> <br>
+
+<a href="https://orcid.org/0009-0005-2028-2345">Publications<a>
