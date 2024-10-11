@@ -35,7 +35,7 @@ DORA is a joint venture between ASU's Interplanetary Lab (IPL) and the LoCo Lab.
 
 ## The External Calibrator for Hydrogen Observatories (ECHO)
 
-One of the biggest limitations of instrument sensitivity in 21-cm cosmology is knowledge of the antenna response, or beam. ECHO is a drone project that aims to make a beam map of low-frequency radio arrays. Read more <a href="https://dannyjacobs.github.io/ECHO/">here</a>.
+One of the biggest limitations of instrument sensitivity in 21-cm cosmology is knowledge of the antenna response, or beam. ECHO is a drone project that aims to make an in-situ beam map of low-frequency radio arrays. Read more about ECHO <a href="https://dannyjacobs.github.io/ECHO/">here</a>.
 
 <figure>
 <center>
@@ -47,4 +47,4 @@ One of the biggest limitations of instrument sensitivity in 21-cm cosmology is k
 
 ## The Terminal Tracking Cameras (TTCams) on the Lucy Mission
 
-The <a href="https://lucy.swri.edu/">NASA Lucy Discovery mission</a>, launched in October 2021, is the first mission to the Trojan asteroids, which are regarded as an opportunity to learn more about the history and formation of the solar system. The Terminal Tracking Cameras (TTCams) on the Lucy Mission are primarily a flight navigation tool, but have a secondary science objective to observe the Trojans asteroids at close approach. Radiometric calibration of these cameras were performed as a joint venture between Malin Space Science Systems, KinetX, and Arizona State University.
+The <a href="https://lucy.swri.edu/">NASA Lucy Discovery mission</a>, launched in October 2021, is the first mission to the Trojan asteroids, which are regarded as an opportunity to learn more about the history and formation of the solar system. The Terminal Tracking Cameras (TTCams) on the Lucy Mission are primarily a flight navigation tool, but have a secondary science objective to observe the Trojans asteroids at close approach. Radiometric calibration of these cameras were performed jointly between Malin Space Science Systems, KinetX, and Arizona State University.
