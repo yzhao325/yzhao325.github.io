@@ -10,6 +10,13 @@ My research is instrumentation-focused, with a heavy learning towards early univ
 
 ## The Deployable Optical Receiver Array (DORA)
 
+<figure>
+<center>
+<img src="graphics/dora.JPG" alt="DORA"  width="80%" align="center">
+<figcaption> <em> DORA team members with the completed satellite on 28 March 2024. (from left) Quang Huy Dinh, Sid Vaidy, Dylan Larson, Marc-O Lalonde, Chandler Hutchens, Sam Cherian, Athul Kodancha, Amy Zhao, Ben Weber, Daniel Jacobs, Titu Samson. (photo by Sam Cherian) </em>  </figcaption>
+</center>
+</figure>
+
 DORA is a joint venture between ASU's Interplanetary Lab and the LoCo Lab. The IPL was responsible for the design, build, and testing of the spacecraft, while the LoCo Lab built the guest payload, a low-frequency radio spectrum survey experiment. DORA's Radio Background Experiment aims to characterize the RFI environment in low-Earth orbit, as a pathfinder experiment for future 21-cm cosmology experiments. The existence of radio frequency interference (RFI), particularly human-made RFI such as FM radio, presents a challenge to radio astronomers aiming to observe the faint 21-cm hydrogen signal from the early universe. Current 21-cm experiments avoid RFI by building instruments in remote locations, while space-based 21-cm experiments have been proposed as alternative radio quiet locations.
 
 ## The External Calibrator for Hydrogen Observatories (ECHO)
