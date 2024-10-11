@@ -7,7 +7,7 @@ permalink: /research
 <figure>
 <center>
 <img src="graphics/ovro.jpg" alt="OVRO"  width="70%" align="center">
-<figcaption> <em> The 40m telescope at the Owen's Valley Radio Observatory. (image by Danny Jacobs) </em>
+<figcaption> <em> The 40m telescope at the Owen's Valley Radio Observatory. (photo by Danny Jacobs) </em>
 </center>
 </figure>
 
@@ -39,7 +39,7 @@ DORA is a joint venture between ASU's Interplanetary Lab (IPL) and the LoCo Lab.
 
 <figure>
 <center>
-<img src="graphics/echo.JPG" alt="ECHO"  width="70%" align="center">
+<img src="graphics/echo.jpg" alt="ECHO"  width="70%" align="center">
 <figcaption> <em> The ECHO drone on a field trip to the Owen's Valley Radio Observatory. (photo by Danny Jacobs) </em>  </figcaption>
 </center>
 </figure>
