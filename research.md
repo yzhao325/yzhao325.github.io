@@ -4,27 +4,23 @@ layout: page
 permalink: /research
 ---
 
-<p align="center">
 <figure>
 <center>
 <img src="graphics/ovro.jpg" alt="OVRO"  width="70%" align="center">
 <figcaption> <em> The 40m telescope at the Owen's Valley Radio Observatory. (image by Danny Jacobs) </em>
 </center>
 </figure>
-</p>
 
 ## Research
 
 My research is instrumentation-focused, with a heavy learning towards early universe radio astronomy. Specifically, I look at neutral hydrogen from the Epoch of Reionization.
 
-<p align="center">
 <figure>
 <center>
 <img src="graphics/alma_cosmotimeline.jpg" alt="cosmo"  width="80%" align="center">
 <figcaption> <em> A look at the cosmological timeline, from the Big Bang to the present day. (image via NAOJ) </em>
 </center>
 </figure>
-</p>
 
 I work on a couple instrumentation projects in this field, including DORA and ECHO. I have also worked on optical instrumentation with the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission.
 
