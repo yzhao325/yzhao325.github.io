@@ -44,7 +44,7 @@ DORA is a joint venture between ASU's Interplanetary Lab (IPL) and the LoCo Lab.
 </center>
 </figure>
 
-One of the biggest limitations of instrument sensitivity in 21-cm cosmology is knowledge of the antenna response, or beam. ECHO is a drone project that aims to make a beam map of low-frequency radio arrays. Read more <a href="https://dannyjacobs.github.io/ECHO/">here<\a>.
+One of the biggest limitations of instrument sensitivity in 21-cm cosmology is knowledge of the antenna response, or beam. ECHO is a drone project that aims to make a beam map of low-frequency radio arrays. Read more <a href="https://dannyjacobs.github.io/ECHO/">here</a>.
 
 ## The Terminal Tracking Cameras (TTCams) on the Lucy Mission
 
