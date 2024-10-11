@@ -5,14 +5,12 @@ permalink: /
 ---
 
 <p align="center">
-  <figure>
-     <center>
+<figure>
+<center>
 <img src="graphics/ovro.jpg" alt="OVRO"  width="80%" align="center">
- <figcaption> <em> Photo taken by Danny Jacobs. </em>  </figcaption>
-     </center>
-  </figure>
- </p>
-<p align="center">
+</center>
+</figure>
+</p>
 
 I'm Yifan Zhao, an astronomer and an instrumentalist specializing in 21-cm cosmology. I also go by Amy. I received my B.S. in Physics from Carnegie Mellon University in 2020. I'm currently a Ph.D. candidate at Arizona State University.
 
