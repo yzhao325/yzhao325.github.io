@@ -4,6 +4,8 @@ layout: page
 permalink: /research
 ---
 
+## Research
+
 <figure>
 <center>
 <img src="graphics/ovro.jpg" alt="OVRO"  width="70%" align="center">
@@ -11,7 +13,6 @@ permalink: /research
 </center>
 </figure>
 
-## Research
 
 My research is instrumentation-focused, with a heavy learning towards early universe radio astronomy. Specifically, I look at neutral hydrogen from the Epoch of Reionization.
 
@@ -24,6 +25,7 @@ My research is instrumentation-focused, with a heavy learning towards early univ
 
 I work on a couple instrumentation projects in this field, including DORA and ECHO. I have also worked on optical instrumentation with the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission.
 
+
 ## The Deployable Optical Receiver Array (DORA)
 
 <figure>
@@ -35,6 +37,7 @@ I work on a couple instrumentation projects in this field, including DORA and EC
 
 DORA is a joint venture between ASU's Interplanetary Lab (IPL) and the LoCo Lab. The IPL was responsible for the design, build, and testing of the spacecraft, while the LoCo Lab designed and built the guest payload, a low-frequency radio spectrum survey experiment. DORA's Radio Background Experiment aims to characterize the RFI environment in low-Earth orbit as a pathfinder experiment for future space-based 21-cm cosmology experiments.
 
+
 ## The External Calibrator for Hydrogen Observatories (ECHO)
 
 <figure>
@@ -45,6 +48,7 @@ DORA is a joint venture between ASU's Interplanetary Lab (IPL) and the LoCo Lab.
 </figure>
 
 One of the biggest limitations of instrument sensitivity in 21-cm cosmology is knowledge of the antenna response, or beam. ECHO is a drone project that aims to make a beam map of low-frequency radio arrays. Read more <a href="https://dannyjacobs.github.io/ECHO/">here</a>.
+
 
 ## The Terminal Tracking Cameras (TTCams) on the Lucy Mission
 
