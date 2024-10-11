@@ -7,7 +7,7 @@ permalink: /research
 <figure>
 <center>
 <img src="graphics/ovro.jpg" alt="OVRO"  width="70%" align="center">
-<figcaption> <em> The 40m telescope at the Owen's Valley Radio Observatory. (photo by Danny Jacobs) </em>
+<figcaption> <em> The 40m telescope at the Owen's Valley Radio Observatory. (photo by Danny Jacobs) </em> </figcaption>
 </center>
 </figure>
 
@@ -18,7 +18,7 @@ My research is instrumentation-focused, with a heavy learning towards early univ
 <figure>
 <center>
 <img src="graphics/alma_cosmotimeline.jpg" alt="cosmo"  width="80%" align="center">
-<figcaption> <em> A look at the cosmological timeline, from the Big Bang to the present day. (image via NAOJ) </em>
+<figcaption> <em> A look at the cosmological timeline, from the Big Bang to the present day. (image via NAOJ) </em> </figcaption>
 </center>
 </figure>
 
