@@ -11,7 +11,7 @@ permalink: /research
 </center>
 </figure>
 
-My research is instrumentation-focused, with a heavy learning towards early universe radio astronomy. Specifically, I look at neutral hydrogen from the Epoch of Reionization. I work on a couple instrumentation projects in this field, including DORA and ECHO. I have also worked on optical instrumentation with the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission.
+My research is instrumentation-focused, with a heavy leaning towards early universe radio astronomy. Specifically, I look at neutral hydrogen from the Epoch of Reionization. I work on a couple instrumentation projects in this field, including DORA and ECHO. I have also worked on optical instrumentation with the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission.
 
 <figure>
 <center>
