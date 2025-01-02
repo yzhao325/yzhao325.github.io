@@ -8,7 +8,7 @@ I'm Yifan Zhao, an astronomer and an instrumentalist specializing in 21-cm cosmo
 
 ## Selected talks and publications
 
-Zhao, Y., Bell, J. F., III, Sahr, E., Lessac-Chenen, E., Adam, C., Cisneros, E., et al. (2024). Pre-flight and in-flight calibration and performance of the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission. Earth and Space Science, 11, e2024EA003576. <a href="https ://doi.org/10.1029/2024EA003576">doi.org/10.1029/2024EA003576</a>
+Zhao, Y., Bell, J. F., III, Sahr, E., Lessac-Chenen, E., Adam, C., Cisneros, E., et al. (2024). Pre-flight and in-flight calibration and performance of the Terminal Tracking Cameras (TTCams) on the NASA Lucy mission. Earth and Space Science, 11, e2024EA003576. [doi.org/10.1029/2024EA003576](https ://doi.org/10.1029/2024EA003576)
 
 Zhao, Y., Jacobs, D. C., Bowman, J., Samson, T. and Lalonde, M.-O. R. Pathfinding Low Frequency Radio Astronomy with the DORA Radio Background Experiment. 2025 IEEE Aerospace Conference, Big Sky, Montana. [submitted, expected Mar 2025.]
 
