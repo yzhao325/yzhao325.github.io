@@ -27,5 +27,5 @@ The <b>Completely Hackable Amateur Radio Telescope (CHART)</b> is an outreach pr
 I've also TA'd for summer programs such as the <a href="https://summerscience.org/">Summer Science Program</a> and for undergraduate courses at ASU, including SES 410: Senior Exploration Project.
 
 ## Links
-<a href="graphics/YifanZhaoCV.pdf">CV</a>
+<a href="graphics/YifanZhao_CV.pdf">CV</a>
 <a href="https://orcid.org/0009-0005-2028-2345">Publications<a>
